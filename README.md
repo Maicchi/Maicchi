@@ -1,4 +1,4 @@
-## Hi, weclome to my profile✨
+## Hi, welcome to my profile✨
 
 <!--
 **Maicchi/Maicchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
